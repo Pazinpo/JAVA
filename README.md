@@ -1,6 +1,6 @@
 # Spring Hello API
 
-간단한 Spring Boot REST API입니다.
+Spring Boot REST API입니다.
 
 ## API 엔드포인트
 
