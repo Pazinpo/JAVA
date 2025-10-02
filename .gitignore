@@ -1,5 +1,4 @@
 target/
-*.jar
 *.war
 *.ear
 *.class
@@ -8,3 +7,4 @@ target/
 .vscode/
 .idea/
 *.iml
+!gradle/wrapper/gradle-wrapper.jar
